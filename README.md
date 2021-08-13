@@ -10,3 +10,10 @@ The project is done by Martin Borge Heir and Eskil Berg Ould-Saada.
         <p>Report here: <a href="https://github.com/mbheir/TTT4275-Classification-Project/blob/main/Project_report.pdf">Download PDF</a>.</p>
     </embed>
 </object>
+
+<embed src="https://drive.google.com/viewerng/
+viewer?embedded=true&url=https://github.com/mbheir/TTT4275-Classification-Project/blob/main/Project_report.pdf">
+
+
+<embed src="https://github.com/mbheir/TTT4275-Classification-Project/blob/main/Project_report.pdf" width="500" height="375" 
+ type="application/pdf">
