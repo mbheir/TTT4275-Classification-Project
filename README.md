@@ -5,11 +5,8 @@ The project consists of classification of the Iris dataset using a linear classi
 
 The project is done by Martin Borge Heir and Eskil Berg Ould-Saada.
 
-
-[embed]https://github.com/mbheir/TTT4275-Classification-Project/blob/main/Project_report.pdf[/embed]
-
-<object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
+<object data="https://github.com/mbheir/TTT4275-Classification-Project/blob/main/Project_report.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/mbheir/TTT4275-Classification-Project/blob/main/Project_report.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/mbheir/TTT4275-Classification-Project/blob/main/Project_report.pdf">Download PDF</a>.</p>
+        <p>Report here: <a href="https://github.com/mbheir/TTT4275-Classification-Project/blob/main/Project_report.pdf">Download PDF</a>.</p>
     </embed>
 </object>
